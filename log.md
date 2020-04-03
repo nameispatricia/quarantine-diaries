@@ -29,7 +29,7 @@
 
 **Today's Progress**: Have been working on project 3 of Freecodecamp which is the Product Landing Page. 
 
-**Thoughts**: Feeling stuck, had to erase everithing and start again.   
+**Thoughts**: Feeling stuck, had to erase everything and start again.   
 
 **Link(s) to work**
 
