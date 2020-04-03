@@ -11,9 +11,9 @@
 
 ### Day 2: April 1 , 2020
 
-**Today's Progress**: Watch the firts lesson of the CS50 Harvard course. 
+**Today's Progress**: Watched the first lesson of the CS50 Harvard course. 
 
-**Thoughts**: Really exiting introduction! Looking forward to completing my first assigment on Scratch.
+**Thoughts**: Really exciting introduction! Looking forward to completing my first assignment on Scratch.
 **Link(s) to work**: 
 
 ### Day 3: April 2, 2020
