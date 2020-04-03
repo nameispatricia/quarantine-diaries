@@ -11,17 +11,16 @@
 
 ### Day 2: April 1 , 2020
 
-**Today's Progress**: 
+**Today's Progress**: Watch the firts lesson of the CS50 Harvard course. 
 
-**Thoughts**: 
+**Thoughts**: Really exiting introduction! Looking forward to completing my first assigment on Scratch.
 **Link(s) to work**: 
 
-### Day 3: April 3, 2020
+### Day 3: April 2, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Completed the second project of the Freecodecamp certification of making a survey page.  
 
-**Thoughts** .
+**Thoughts**: I had to consult various elements and their proper use on various resources. Definitely need to practice more so I can feel more comfortable coding on my own. 
 
-**Link(s) to work**
-1. 
-2. 
+**Link(s) to work** https://codepen.io/nameispatricia/pen/NWqmENr
+ 
